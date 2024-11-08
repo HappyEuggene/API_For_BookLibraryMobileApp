@@ -1,0 +1,6 @@
+@API_For_BookLibraryMobileApp_HostAddress = http://localhost:5181
+
+GET {{API_For_BookLibraryMobileApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
